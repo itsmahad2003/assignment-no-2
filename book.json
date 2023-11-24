@@ -6,7 +6,7 @@
       "category": "Fiction",
       "price": 12.99,
       "description": "Classic novel set in the American South during the 1930s.",
-      "cover_image": "/images/01.jpg"
+      "cover_image": "images/01.jpg"
     },
     {
       "id": 2,
@@ -15,7 +15,7 @@
       "category": "Dystopian",
       "price": 9.99,
       "description": "Classic dystopian novel about totalitarianism and surveillance.",
-      "cover_image": "/images/22.jpg"
+      "cover_image": "images/22.jpg"
     },
     {
       "id": 3,
@@ -24,7 +24,7 @@
       "category": "Classic",
       "price": 11.50,
       "description": "A story of the Jazz Age and the American Dream.",
-      "cover_image": "/images/03.jpeg"
+      "cover_image": "images/03.jpeg"
     },
     {
       "id": 4,
@@ -33,7 +33,7 @@
       "category": "Classic",
       "price": 13.25,
       "description": "Novel about the voyage of the whaling ship Pequod.",
-      "cover_image": "/images/05.jpeg"
+      "cover_image": "images/05.jpeg"
     },
     {
       "id": 5,
@@ -42,7 +42,7 @@
       "category": "Science Fiction",
       "price": 10.75,
       "description": "A dystopian social science fiction novel.",
-      "cover_image": "/images/5.jpg"
+      "cover_image": "images/5.jpg"
     },
     {
       "id": 6,
@@ -51,7 +51,7 @@
       "category": "Classic",
       "price": 9.99,
       "description": "Classic romantic novel of manners.",
-      "cover_image": "/images/06.jpeg"
+      "cover_image": "images/06.jpeg"
     },
     {
       "id": 7,
@@ -60,7 +60,7 @@
       "category": "Fiction",
       "price": 8.50,
       "description": "Novel known for its themes of teenage angst and alienation.",
-      "cover_image": "/images/7.jpg"
+      "cover_image": "images/7.jpg"
     },
     {
       "id": 8,
@@ -69,7 +69,7 @@
       "category": "Fantasy",
       "price": 15.99,
       "description": "High-fantasy novel series.",
-      "cover_image": "/images/77.jpg"
+      "cover_image": "images/77.jpg"
     },
     {
       "id": 9,
@@ -78,7 +78,7 @@
       "category": "Fantasy",
       "price": 11.75,
       "description": "Prequel to The Lord of the Rings.",
-      "cover_image": "/images/8.jpg"
+      "cover_image": "images/8.jpg"
     },
     {
       "id": 10,
@@ -87,7 +87,7 @@
       "category": "Mystery",
       "price": 14.25,
       "description": "Mystery thriller novel.",
-      "cover_image": "/images/10.jpg"
+      "cover_image": "images/10.jpg"
     },
     {
       "id": 11,
@@ -96,7 +96,7 @@
       "category": "Fiction",
       "price": 10.50,
       "description": "Philosophical novel.",
-      "cover_image": "/images/11.jpeg"
+      "cover_image": "images/11.jpeg"
     },
     {
       "id": 12,
@@ -105,7 +105,7 @@
       "category": "Classic",
       "price": 12.25,
       "description": "Historical novel set during the French Revolution.",
-      "cover_image": "/images/12.jpg"
+      "cover_image": "images/12.jpg"
     },
     {
       "id": 13,
@@ -114,7 +114,7 @@
       "category": "Historical Fiction",
       "price": 16.99,
       "description": "Epic novel set during the Napoleonic Wars.",
-      "cover_image": "/images/13.jpg"
+      "cover_image": "images/13.jpg"
     },
     {
       "id": 14,
@@ -123,7 +123,7 @@
       "category": "Classic",
       "price": 11.99,
       "description": "Gothic and philosophical novel.",
-      "cover_image": "/images/14.jpg"
+      "cover_image": "images/14.jpg"
     },
     {
       "id": 15,
@@ -132,7 +132,7 @@
       "category": "Classic",
       "price": 10.99,
       "description": "Novel known for its social commentary.",
-      "cover_image": "/images/15.jpg"
+      "cover_image": "images/15.jpg"
     },
     {
       "id": 16,
@@ -141,7 +141,7 @@
       "category": "Classic",
       "price": 9.50,
       "description": "Autobiographical novel.",
-      "cover_image": "/images/16.6.jpg"
+      "cover_image": "images/16.6.jpg"
     },
     {
       "id": 17,
@@ -150,7 +150,7 @@
       "category": "Dystopian",
       "price": 13.75,
       "description": "Post-apocalyptic novel.",
-      "cover_image": "/images/17.jpeg"
+      "cover_image": "images/17.jpeg"
     },
     
     {
@@ -160,7 +160,7 @@
       "category": "Horror",
       "price": 14.50,
       "description": "Post-apocalyptic horror/fantasy novel.",
-      "cover_image": "/images/19.jpeg"
+      "cover_image": "images/19.jpeg"
     },
     {
       "id": 20,
@@ -169,7 +169,7 @@
       "category": "Classic",
       "price": 12.50,
       "description": "Psychological novel.",
-      "cover_image": "/images/20.jpeg"
+      "cover_image": "images/20.jpeg"
     },
     {
       "id": 21,
@@ -178,7 +178,7 @@
       "category": "Classic",
       "price": 13.99,
       "description": "Historical novel set in France.",
-      "cover_image": "/images/21.jpg"
+      "cover_image": "images/21.jpg"
     },
     {
       "id": 18,
@@ -187,7 +187,7 @@
       "category": "Gothic",
       "price": 11.25,
       "description": "Gothic novel about science and creation.",
-      "cover_image": "/images/18.jpg"
+      "cover_image": "images/18.jpg"
     },
     {
       "id": 24,
@@ -196,7 +196,7 @@
       "category": "Philosophical",
       "price": 12.25,
       "description": "Existential novel.",
-      "cover_image": "/images/24.jpeg"
+      "cover_image": "images/24.jpeg"
     },
     {
       "id": 22,
@@ -205,7 +205,7 @@
       "category": "Horror",
       "price": 11.75,
       "description": "Horror novel.",
-      "cover_image": "/images/022.jpeg"
+      "cover_image": "images/022.jpeg"
     },
    
     
@@ -216,7 +216,7 @@
       "category": "Historical Fiction",
       "price": 13.50,
       "description": "Historical novel set in the American South during the Civil War.",
-      "cover_image": "/images/25.jpg"
+      "cover_image": "images/25.jpg"
     },
     {
       "id": 26,
@@ -225,7 +225,7 @@
       "category": "Contemporary",
       "price": 10.99,
       "description": "Contemporary novel set in Afghanistan.",
-      "cover_image": "/images/26.jpeg"
+      "cover_image": "images/26.jpeg"
     },
     {
       "id": 23,
@@ -234,7 +234,7 @@
       "category": "Classic",
       "price": 10.25,
       "description": "Ancient Greek epic poem.",
-      "cover_image": "/images/23.jpeg"
+      "cover_image": "images/23.jpeg"
     },
     {
       "id": 27,
@@ -243,7 +243,7 @@
       "category": "Autobiographical",
       "price": 11.50,
       "description": "Autobiographical novel.",
-      "cover_image": "/images/27.jpg"
+      "cover_image": "images/27.jpg"
     },
     {
       "id": 30,
@@ -252,7 +252,7 @@
       "category": "Classic",
       "price": 11.99,
       "description": "Novel set during the Great Depression.",
-      "cover_image": "/images/30.jpg"
+      "cover_image": "images/30.jpg"
     },
     {
       "id": 28,
@@ -261,7 +261,7 @@
       "category": "Adventure",
       "price": 12.99,
       "description": "Adventure novel.",
-      "cover_image": "/images/28.jpg"
+      "cover_image": "images/28.jpg"
     },
     {
       "id": 29,
@@ -270,7 +270,7 @@
       "category": "Classic",
       "price": 12.75,
       "description": "Tragic novel.",
-      "cover_image": "/images/299.jpg"
+      "cover_image": "images/299.jpg"
     }
     
   ]
